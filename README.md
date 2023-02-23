@@ -10,6 +10,3 @@
         在插件管理器拉到最下面--》注册的其他插件  中显示有此插件，即注册成功；
         
     *注册成功后，选中网格物体，在时间轴下面的MEL输入框中输入《smoothNormal》，即可执行脚本；
-    
-    ![image](https://user-images.githubusercontent.com/99083359/220839571-619c48e0-c90a-4b83-91cc-59b8c64407d5.png)
-
