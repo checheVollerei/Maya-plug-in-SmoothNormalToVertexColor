@@ -1,1 +1,0 @@
-F:\shader\Maya_Plug-in\SmoothNormalToVertexColor\SmoothNormalToVertexColor\x64\Release\SmoothNormalToVertexColor.mll
